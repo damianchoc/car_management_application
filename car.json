@@ -1,0 +1,52 @@
+[
+    {
+      "model": "BMW",
+      "price": 120,
+      "color": "BLACK",
+      "mileage": 1500,
+      "components": [
+        "ABS",
+        "ALLOY WHEELS"
+      ]
+    },
+    {
+      "model": "MAZDA",
+      "price": 160,
+      "color": "WHITE",
+      "mileage": 2500,
+      "components": [
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+  {
+    "model": "MAZDA",
+    "price": 190,
+    "color": "WHITE",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+    {
+      "model": "AZDA",
+      "price": 160,
+      "color": "WHITE",
+      "mileage": 2500,
+      "components": [
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+  {
+    "model": "AZDA",
+    "price": 180,
+    "color": "WHITE",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  }
+]
