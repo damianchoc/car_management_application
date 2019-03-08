@@ -52,7 +52,7 @@ public class CarsService {
             case PRICE:
                 result = cars.stream().sorted(Comparator.comparing(Car::getPrice)).collect(Collectors.toList());
                 break;
-            case MILLEGAE:
+            case MILEAGE:
                 result = cars.stream().sorted(Comparator.comparing(Car::getMileage)).collect(Collectors.toList());
         }
         if (sortDescending) {
